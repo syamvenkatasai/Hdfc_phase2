@@ -11,6 +11,7 @@ import base64
 import subprocess
 import time
 
+
 # qr code
 # from pyzbar.pyzbar import decode
 # from pikepdf import Pdf
